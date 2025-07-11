@@ -34,7 +34,7 @@ This project provides a **secure user authentication API** with:
 ## API Endpoints
 
 ### 1️⃣ Signup
-- **POST** `/api/auth/signup`
+- **POST** `/api/user/register`
 - **Body:**
 ```json
 {
